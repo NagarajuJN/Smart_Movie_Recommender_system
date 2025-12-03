@@ -1,6 +1,6 @@
 # SMART-Movie-Recommendation-System
 
-# 🎬 MovieNest – Personalized Movie Recommendation System
+# MovieNest – Personalized Movie Recommendation System
 
 ## 📌 Overview  
 **MovieNest** is a content-based movie recommendation system that helps users discover movies based on **genres, actors, directors, and movie metadata**.  
